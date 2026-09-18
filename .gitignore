@@ -1,0 +1,9 @@
+*.blend
+*.blend1
+*.glb
+*.zip
+*.log
+.env*
+.DS_Store
+private/
+__pycache__/
