@@ -1,0 +1,99 @@
+{
+  "verified_at": "2026-09-18T08:58:05.187022+00:00",
+  "repository": "https://github.com/z-hstudio/ntu-campus-reconstruction",
+  "visibility": "PUBLIC",
+  "latest_stable": "community-v1.0.0",
+  "repository_files_verified": 42,
+  "releases": [
+    {
+      "tag": "community-v1.0.0",
+      "url": "https://github.com/z-hstudio/ntu-campus-reconstruction/releases/tag/community-v1.0.0",
+      "published_at": "2026-09-18T08:55:17Z",
+      "created_at": "2026-09-18T08:54:23Z",
+      "release_uuid": "6b844112-5bfc-40d9-ae03-a1519b461a58",
+      "assets_verified": 8,
+      "download_sha256": "PASS",
+      "tag_commit_verified": "7c6d552669a45c750c6bc889e0246ded590abb88",
+      "asset_urls": {
+        "community-v1.0.0.blend": "https://github.com/z-hstudio/ntu-campus-reconstruction/releases/download/community-v1.0.0/community-v1.0.0.blend",
+        "community-v1.0.0.glb": "https://github.com/z-hstudio/ntu-campus-reconstruction/releases/download/community-v1.0.0/community-v1.0.0.glb",
+        "focus.png": "https://github.com/z-hstudio/ntu-campus-reconstruction/releases/download/community-v1.0.0/focus.png",
+        "LICENSE-AND-NOTICES.zip": "https://github.com/z-hstudio/ntu-campus-reconstruction/releases/download/community-v1.0.0/LICENSE-AND-NOTICES.zip",
+        "overview.png": "https://github.com/z-hstudio/ntu-campus-reconstruction/releases/download/community-v1.0.0/overview.png",
+        "RELEASE-MANIFEST.json": "https://github.com/z-hstudio/ntu-campus-reconstruction/releases/download/community-v1.0.0/RELEASE-MANIFEST.json",
+        "SHA256SUMS.txt": "https://github.com/z-hstudio/ntu-campus-reconstruction/releases/download/community-v1.0.0/SHA256SUMS.txt",
+        "spatial-database.zip": "https://github.com/z-hstudio/ntu-campus-reconstruction/releases/download/community-v1.0.0/spatial-database.zip"
+      }
+    },
+    {
+      "tag": "history-v012",
+      "url": "https://github.com/z-hstudio/ntu-campus-reconstruction/releases/tag/history-v012",
+      "published_at": "2026-09-18T08:55:29Z",
+      "created_at": "2026-09-18T08:54:23Z",
+      "release_uuid": "744ea1b8-5042-456f-a995-a30fd85431b7",
+      "assets_verified": 9,
+      "download_sha256": "PASS",
+      "tag_commit_verified": "7c6d552669a45c750c6bc889e0246ded590abb88",
+      "asset_urls": {
+        "before.png": "https://github.com/z-hstudio/ntu-campus-reconstruction/releases/download/history-v012/before.png",
+        "focus.png": "https://github.com/z-hstudio/ntu-campus-reconstruction/releases/download/history-v012/focus.png",
+        "history-v012.blend": "https://github.com/z-hstudio/ntu-campus-reconstruction/releases/download/history-v012/history-v012.blend",
+        "history-v012.glb": "https://github.com/z-hstudio/ntu-campus-reconstruction/releases/download/history-v012/history-v012.glb",
+        "LICENSE-AND-NOTICES.zip": "https://github.com/z-hstudio/ntu-campus-reconstruction/releases/download/history-v012/LICENSE-AND-NOTICES.zip",
+        "overview.png": "https://github.com/z-hstudio/ntu-campus-reconstruction/releases/download/history-v012/overview.png",
+        "RELEASE-MANIFEST.json": "https://github.com/z-hstudio/ntu-campus-reconstruction/releases/download/history-v012/RELEASE-MANIFEST.json",
+        "SHA256SUMS.txt": "https://github.com/z-hstudio/ntu-campus-reconstruction/releases/download/history-v012/SHA256SUMS.txt",
+        "spatial-database.zip": "https://github.com/z-hstudio/ntu-campus-reconstruction/releases/download/history-v012/spatial-database.zip"
+      }
+    },
+    {
+      "tag": "history-rec1",
+      "url": "https://github.com/z-hstudio/ntu-campus-reconstruction/releases/tag/history-rec1",
+      "published_at": "2026-09-18T08:55:39Z",
+      "created_at": "2026-09-18T08:54:23Z",
+      "release_uuid": "55246da4-9b7d-41fb-a4ab-705ba33ba995",
+      "assets_verified": 9,
+      "download_sha256": "PASS",
+      "tag_commit_verified": "7c6d552669a45c750c6bc889e0246ded590abb88",
+      "asset_urls": {
+        "before.png": "https://github.com/z-hstudio/ntu-campus-reconstruction/releases/download/history-rec1/before.png",
+        "focus.png": "https://github.com/z-hstudio/ntu-campus-reconstruction/releases/download/history-rec1/focus.png",
+        "history-rec1.blend": "https://github.com/z-hstudio/ntu-campus-reconstruction/releases/download/history-rec1/history-rec1.blend",
+        "history-rec1.glb": "https://github.com/z-hstudio/ntu-campus-reconstruction/releases/download/history-rec1/history-rec1.glb",
+        "LICENSE-AND-NOTICES.zip": "https://github.com/z-hstudio/ntu-campus-reconstruction/releases/download/history-rec1/LICENSE-AND-NOTICES.zip",
+        "overview.png": "https://github.com/z-hstudio/ntu-campus-reconstruction/releases/download/history-rec1/overview.png",
+        "RELEASE-MANIFEST.json": "https://github.com/z-hstudio/ntu-campus-reconstruction/releases/download/history-rec1/RELEASE-MANIFEST.json",
+        "SHA256SUMS.txt": "https://github.com/z-hstudio/ntu-campus-reconstruction/releases/download/history-rec1/SHA256SUMS.txt",
+        "spatial-database.zip": "https://github.com/z-hstudio/ntu-campus-reconstruction/releases/download/history-rec1/spatial-database.zip"
+      }
+    },
+    {
+      "tag": "history-night",
+      "url": "https://github.com/z-hstudio/ntu-campus-reconstruction/releases/tag/history-night",
+      "published_at": "2026-09-18T08:55:48Z",
+      "created_at": "2026-09-18T08:54:23Z",
+      "release_uuid": "93cf51fc-0a57-4bd6-a681-8ab2fec2e0d7",
+      "assets_verified": 9,
+      "download_sha256": "PASS",
+      "tag_commit_verified": "7c6d552669a45c750c6bc889e0246ded590abb88",
+      "asset_urls": {
+        "before.png": "https://github.com/z-hstudio/ntu-campus-reconstruction/releases/download/history-night/before.png",
+        "focus.png": "https://github.com/z-hstudio/ntu-campus-reconstruction/releases/download/history-night/focus.png",
+        "history-night.blend": "https://github.com/z-hstudio/ntu-campus-reconstruction/releases/download/history-night/history-night.blend",
+        "history-night.glb": "https://github.com/z-hstudio/ntu-campus-reconstruction/releases/download/history-night/history-night.glb",
+        "LICENSE-AND-NOTICES.zip": "https://github.com/z-hstudio/ntu-campus-reconstruction/releases/download/history-night/LICENSE-AND-NOTICES.zip",
+        "overview.png": "https://github.com/z-hstudio/ntu-campus-reconstruction/releases/download/history-night/overview.png",
+        "RELEASE-MANIFEST.json": "https://github.com/z-hstudio/ntu-campus-reconstruction/releases/download/history-night/RELEASE-MANIFEST.json",
+        "SHA256SUMS.txt": "https://github.com/z-hstudio/ntu-campus-reconstruction/releases/download/history-night/SHA256SUMS.txt",
+        "spatial-database.zip": "https://github.com/z-hstudio/ntu-campus-reconstruction/releases/download/history-night/spatial-database.zip"
+      }
+    }
+  ],
+  "privacy_scan": "PASS for explicit public allowlist; local paths, known credentials, private contacts and PNG metadata inspected",
+  "private_inputs_unchanged": true,
+  "limitations": [
+    "Approximate visual reconstruction, not measured campus accuracy",
+    "Historical public copies omit specified source-restricted changes",
+    "External legal clearance and ChatGPT Web review not claimed"
+  ]
+}
