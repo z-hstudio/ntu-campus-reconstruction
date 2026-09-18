@@ -1,0 +1,30 @@
+{
+  "status": "PASS",
+  "checks": {
+    "independent_reopen": true,
+    "no_images": true,
+    "no_libraries": true,
+    "no_external_fonts": true,
+    "attribution_text": true,
+    "metadata": true,
+    "geometry_integrity": true,
+    "object_coverage": true,
+    "stable_ids": true,
+    "roundtrip": true
+  },
+  "stable_building_ids": 345,
+  "mesh_count": 1447,
+  "max_world_error_m": 0.0,
+  "max_material_error": 0,
+  "tolerance_note": "1 cm is same-version Blender/GLB conversion consistency only, not campus accuracy",
+  "actual_visual_review": {
+    "status": "PASS_WITH_LIMITS",
+    "conclusion": "Overview shows campus coverage; Hive proxy remains coarse. Focus/reimport preserve cream walls, dark bands and green roof caps. No visible conversion damage.",
+    "views": [
+      "overview",
+      "focus",
+      "roundtrip"
+    ],
+    "scope": "public copy integrity and representative conversion appearance; not full-campus real-world accuracy"
+  }
+}

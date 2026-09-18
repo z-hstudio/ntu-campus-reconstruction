@@ -1,0 +1,30 @@
+{
+  "status": "PASS",
+  "checks": {
+    "independent_reopen": true,
+    "no_images": true,
+    "no_libraries": true,
+    "no_external_fonts": true,
+    "attribution_text": true,
+    "metadata": true,
+    "geometry_integrity": true,
+    "object_coverage": true,
+    "stable_ids": true,
+    "roundtrip": true
+  },
+  "stable_building_ids": 345,
+  "mesh_count": 1379,
+  "max_world_error_m": 6.118398596299812e-05,
+  "max_material_error": 0,
+  "tolerance_note": "1 cm is same-version Blender/GLB conversion consistency only, not campus accuracy",
+  "actual_visual_review": {
+    "status": "PASS_WITH_LIMITS",
+    "conclusion": "WKW view shows curved blue-glass entrance, white piers, roof PV and courtyard/entry context. After and reimport agree. Spatial estimates remain visible as simplification.",
+    "views": [
+      "matched before",
+      "focus",
+      "roundtrip"
+    ],
+    "scope": "public copy integrity and representative conversion appearance; not full-campus real-world accuracy"
+  }
+}
