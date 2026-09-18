@@ -1,0 +1,93 @@
+{
+  "creator": "Manyousang Z",
+  "author": "Ziheng Huang",
+  "brand": "z-hstudio",
+  "project": "NTU Yunnan Garden Campus Reconstruction",
+  "release_version": "history-rec1",
+  "release_date": "2026-09-18T08:54:23.440908+00:00",
+  "release_uuid": "55246da4-9b7d-41fb-a4ab-705ba33ba995",
+  "parent_public_release": "history-v012",
+  "git_commit": "7c6d552669a45c750c6bc889e0246ded590abb88",
+  "git_tag": "history-rec1",
+  "license": {
+    "name": "z-hstudio Campus Model Community License",
+    "version": "1.0",
+    "third_party_database": "ODbL-1.0"
+  },
+  "internal_historical_version": "NTU-REC1-EMB-fix1",
+  "historical_record_date": "2026-09-16",
+  "historical_date_note": "Local historical evidence, not backdated Git publication",
+  "status": "HISTORICAL_PARTIAL_PUBLIC_SNAPSHOT",
+  "release_url": "https://github.com/z-hstudio/ntu-campus-reconstruction/releases/tag/history-rec1",
+  "blend_sha256": "4a5304fafdcde3bb898332ec520fc515436288ab03da2b9fe63099e278c2b761",
+  "glb_sha256": "b965947bd3e33f67e81e0fafae87a53c0eb8ae52037731e6204ed93dee7da970",
+  "preview_hashes": {
+    "overview.png": "36172e5e4801c5d1eb1c8ee9da6771ec8007f169e0ad8fb4ad1521ef47953f54",
+    "focus.png": "d1c43c13078201c434f42904bbd21f9712394b6742cdc592e07dfc597acb76ef",
+    "before.png": "83e6d929dc269ae0b6b6b2ef28b9f28479e2d64e154b9f55d85a2bdf7c8c928d"
+  },
+  "files": {
+    "history-rec1.blend": {
+      "sha256": "4a5304fafdcde3bb898332ec520fc515436288ab03da2b9fe63099e278c2b761",
+      "bytes": 42377406
+    },
+    "history-rec1.glb": {
+      "sha256": "b965947bd3e33f67e81e0fafae87a53c0eb8ae52037731e6204ed93dee7da970",
+      "bytes": 24888556
+    },
+    "spatial-database.zip": {
+      "sha256": "4e30ae94eb191cefbe1826d9bd29a787dc746c9636509fb8b2d376f97a1d7dde",
+      "bytes": 6004360
+    },
+    "LICENSE-AND-NOTICES.zip": {
+      "sha256": "950715640fa7dbd060750c91e2c3ea882dd311bf0c05dbb38aa6643e95347196",
+      "bytes": 16174
+    },
+    "overview.png": {
+      "sha256": "36172e5e4801c5d1eb1c8ee9da6771ec8007f169e0ad8fb4ad1521ef47953f54",
+      "bytes": 844214
+    },
+    "focus.png": {
+      "sha256": "d1c43c13078201c434f42904bbd21f9712394b6742cdc592e07dfc597acb76ef",
+      "bytes": 835846
+    },
+    "before.png": {
+      "sha256": "83e6d929dc269ae0b6b6b2ef28b9f28479e2d64e154b9f55d85a2bdf7c8c928d",
+      "bytes": 790313
+    }
+  },
+  "rights_audit": "PASS_FOR_EXPLICIT_PUBLIC_ALLOWLIST; underlying architectural rights not claimed",
+  "public_exclusions": [
+    "518953947"
+  ],
+  "validation": {
+    "status": "PASS",
+    "checks": {
+      "independent_reopen": true,
+      "no_images": true,
+      "no_libraries": true,
+      "no_external_fonts": true,
+      "attribution_text": true,
+      "metadata": true,
+      "geometry_integrity": true,
+      "object_coverage": true,
+      "stable_ids": true,
+      "roundtrip": true
+    },
+    "stable_building_ids": 345,
+    "mesh_count": 1379,
+    "max_world_error_m": 6.118398596299812e-05,
+    "max_material_error": 0,
+    "tolerance_note": "1 cm is same-version Blender/GLB conversion consistency only, not campus accuracy",
+    "actual_visual_review": {
+      "status": "PASS_WITH_LIMITS",
+      "conclusion": "WKW view shows curved blue-glass entrance, white piers, roof PV and courtyard/entry context. After and reimport agree. Spatial estimates remain visible as simplification.",
+      "views": [
+        "matched before",
+        "focus",
+        "roundtrip"
+      ],
+      "scope": "public copy integrity and representative conversion appearance; not full-campus real-world accuracy"
+    }
+  }
+}

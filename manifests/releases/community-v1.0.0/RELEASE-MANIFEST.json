@@ -1,0 +1,86 @@
+{
+  "creator": "Manyousang Z",
+  "author": "Ziheng Huang",
+  "brand": "z-hstudio",
+  "project": "NTU Yunnan Garden Campus Reconstruction",
+  "release_version": "community-v1.0.0",
+  "release_date": "2026-09-18T08:54:23.320728+00:00",
+  "release_uuid": "6b844112-5bfc-40d9-ae03-a1519b461a58",
+  "parent_public_release": null,
+  "git_commit": "7c6d552669a45c750c6bc889e0246ded590abb88",
+  "git_tag": "community-v1.0.0",
+  "license": {
+    "name": "z-hstudio Campus Model Community License",
+    "version": "1.0",
+    "third_party_database": "ODbL-1.0"
+  },
+  "internal_historical_version": "NTU-v002",
+  "historical_record_date": "2026-09-16",
+  "historical_date_note": "Local historical evidence, not backdated Git publication",
+  "status": "FORMAL_BASE_PUBLIC_COPY",
+  "release_url": "https://github.com/z-hstudio/ntu-campus-reconstruction/releases/tag/community-v1.0.0",
+  "blend_sha256": "1629a8895e58389cccf755357ceb118510b8601d863eb2e16e5c7e9a39f5b0fb",
+  "glb_sha256": "bc147e1a2832716f4aeb0b4870112c8055938334e5fbd030a5173e800d5d34ab",
+  "preview_hashes": {
+    "overview.png": "59ef4cd02b927a445f69b41a487c837aafe90aaff281f30c8a94ab6507710cbd",
+    "focus.png": "20f1576a4306ec2d9b95a2eeacf18067aa9133d89d9a98747ede13c207e62f19"
+  },
+  "files": {
+    "community-v1.0.0.blend": {
+      "sha256": "1629a8895e58389cccf755357ceb118510b8601d863eb2e16e5c7e9a39f5b0fb",
+      "bytes": 22385939
+    },
+    "community-v1.0.0.glb": {
+      "sha256": "bc147e1a2832716f4aeb0b4870112c8055938334e5fbd030a5173e800d5d34ab",
+      "bytes": 16792792
+    },
+    "spatial-database.zip": {
+      "sha256": "612c4caa8a5ed5c89a64eee296ba3130452281fe0f61965e67bc3bf1f4666a5c",
+      "bytes": 3359414
+    },
+    "LICENSE-AND-NOTICES.zip": {
+      "sha256": "950715640fa7dbd060750c91e2c3ea882dd311bf0c05dbb38aa6643e95347196",
+      "bytes": 16174
+    },
+    "overview.png": {
+      "sha256": "59ef4cd02b927a445f69b41a487c837aafe90aaff281f30c8a94ab6507710cbd",
+      "bytes": 836894
+    },
+    "focus.png": {
+      "sha256": "20f1576a4306ec2d9b95a2eeacf18067aa9133d89d9a98747ede13c207e62f19",
+      "bytes": 730466
+    }
+  },
+  "rights_audit": "PASS_FOR_EXPLICIT_PUBLIC_ALLOWLIST; underlying architectural rights not claimed",
+  "public_exclusions": [],
+  "validation": {
+    "status": "PASS",
+    "checks": {
+      "independent_reopen": true,
+      "no_images": true,
+      "no_libraries": true,
+      "no_external_fonts": true,
+      "attribution_text": true,
+      "metadata": true,
+      "geometry_integrity": true,
+      "object_coverage": true,
+      "stable_ids": true,
+      "roundtrip": true
+    },
+    "stable_building_ids": 345,
+    "mesh_count": 1447,
+    "max_world_error_m": 0.0,
+    "max_material_error": 0,
+    "tolerance_note": "1 cm is same-version Blender/GLB conversion consistency only, not campus accuracy",
+    "actual_visual_review": {
+      "status": "PASS_WITH_LIMITS",
+      "conclusion": "Overview shows campus coverage; Hive proxy remains coarse. Focus/reimport preserve cream walls, dark bands and green roof caps. No visible conversion damage.",
+      "views": [
+        "overview",
+        "focus",
+        "roundtrip"
+      ],
+      "scope": "public copy integrity and representative conversion appearance; not full-campus real-world accuracy"
+    }
+  }
+}

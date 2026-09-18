@@ -1,0 +1,94 @@
+{
+  "creator": "Manyousang Z",
+  "author": "Ziheng Huang",
+  "brand": "z-hstudio",
+  "project": "NTU Yunnan Garden Campus Reconstruction",
+  "release_version": "history-night",
+  "release_date": "2026-09-18T08:54:23.509425+00:00",
+  "release_uuid": "93cf51fc-0a57-4bd6-a681-8ab2fec2e0d7",
+  "parent_public_release": "history-rec1",
+  "git_commit": "7c6d552669a45c750c6bc889e0246ded590abb88",
+  "git_tag": "history-night",
+  "license": {
+    "name": "z-hstudio Campus Model Community License",
+    "version": "1.0",
+    "third_party_database": "ODbL-1.0"
+  },
+  "internal_historical_version": "NTU-NIGHT8-RSB",
+  "historical_record_date": "2026-09-17",
+  "historical_date_note": "Local historical evidence, not backdated Git publication",
+  "status": "HISTORICAL_PARTIAL_PUBLIC_SNAPSHOT",
+  "release_url": "https://github.com/z-hstudio/ntu-campus-reconstruction/releases/tag/history-night",
+  "blend_sha256": "2bea2aade57b284c110e92a628605ca410c29664d5ee6e7e55c2fa12d8d30007",
+  "glb_sha256": "6fac20c098ac6c0f0797079fbabad1430eafe9a3b334edab48c978ef0ea42646",
+  "preview_hashes": {
+    "overview.png": "1eb7f2e5d58f7fdd385820d826871e03d8f87bcecd72f60b78c2bd74d0663b86",
+    "focus.png": "4fae5e22017577ebe974451a2019e4bbd9d0f1aba279c7cd287506092e02424e",
+    "before.png": "1aabcb6c3507536889f13a7b6f03ef26a4db779edfe3db025aa88ac983330c11"
+  },
+  "files": {
+    "history-night.blend": {
+      "sha256": "2bea2aade57b284c110e92a628605ca410c29664d5ee6e7e55c2fa12d8d30007",
+      "bytes": 45981643
+    },
+    "history-night.glb": {
+      "sha256": "6fac20c098ac6c0f0797079fbabad1430eafe9a3b334edab48c978ef0ea42646",
+      "bytes": 26384324
+    },
+    "spatial-database.zip": {
+      "sha256": "59ecf119e9e57e0fea11021a7a6c718685dd40312a066b73423fe8985a5762e1",
+      "bytes": 6584505
+    },
+    "LICENSE-AND-NOTICES.zip": {
+      "sha256": "950715640fa7dbd060750c91e2c3ea882dd311bf0c05dbb38aa6643e95347196",
+      "bytes": 16174
+    },
+    "overview.png": {
+      "sha256": "1eb7f2e5d58f7fdd385820d826871e03d8f87bcecd72f60b78c2bd74d0663b86",
+      "bytes": 844467
+    },
+    "focus.png": {
+      "sha256": "4fae5e22017577ebe974451a2019e4bbd9d0f1aba279c7cd287506092e02424e",
+      "bytes": 739444
+    },
+    "before.png": {
+      "sha256": "1aabcb6c3507536889f13a7b6f03ef26a4db779edfe3db025aa88ac983330c11",
+      "bytes": 760704
+    }
+  },
+  "rights_audit": "PASS_FOR_EXPLICIT_PUBLIC_ALLOWLIST; underlying architectural rights not claimed",
+  "public_exclusions": [
+    "518953947",
+    "49968086"
+  ],
+  "validation": {
+    "status": "PASS",
+    "checks": {
+      "independent_reopen": true,
+      "no_images": true,
+      "no_libraries": true,
+      "no_external_fonts": true,
+      "attribution_text": true,
+      "metadata": true,
+      "geometry_integrity": true,
+      "object_coverage": true,
+      "stable_ids": true,
+      "roundtrip": true
+    },
+    "stable_building_ids": 345,
+    "mesh_count": 1404,
+    "max_world_error_m": 6.118398596299812e-05,
+    "max_material_error": 0,
+    "tolerance_note": "1 cm is same-version Blender/GLB conversion consistency only, not campus accuracy",
+    "actual_visual_review": {
+      "status": "PASS_WITH_LIMITS",
+      "conclusion": "TCT view shows lower white front, taller pitched hall, darker entrance glazing, projecting canopy and steps. After/reimport agree; historic estimates retained.",
+      "views": [
+        "matched before",
+        "focus",
+        "roundtrip"
+      ],
+      "scope": "public copy integrity and representative conversion appearance; not full-campus real-world accuracy"
+    }
+  }
+}
